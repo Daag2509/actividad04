@@ -1,0 +1,3 @@
+# Programación Orientada a Objetos: Sobrecarga, Polimorfismo, Herencia (Simple y Multiple) y Clases Abstractas
+
+Este proyecto explora conceptos fundamentales de la Programación Orientada a Objetos (POO), incluyendo sobrecarga de métodos, polimorfismo, herencia (tanto simple como múltiple) y clases abstractas. En este repositorio, encontrarás cinco carpetas con los programas correspondientes. Para ejecutar cada programa, simplemente corre el archivo main.py en cada carpeta.
